@@ -7,7 +7,6 @@
 - 🥅 2022 Goals: Strengthen my Machine Learning and SQL fundamentals. 
 - ⚡ Fun fact: I'm a street food lover. If you are travelling to Delhi, you can ask me for recommendations! 🥗 
 - 👨‍💻 I'm open for internships and jobs for Data Scientist, Data Analyst and Data Engineering roles.
-- 📫 How to reach me: riya.goyalwk@gmail.com
 - 😄 Pronouns: She/Her
 
 > Content next in-line: Machine Learning, R Programming, SQL
