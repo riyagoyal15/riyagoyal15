@@ -1,12 +1,12 @@
-# Hey there! I'm Sanjay Rao - aka [Rao-Sanjayy] 👋 
+# Hey there! I'm Riya Goyal 👋 
 
 ### I'm a student pursuing Master's in Data Science from CHRIST (Deemed to be University) Bangalore
 
-- 🌱 I’m currently learning Machine Learning, Google Cloud, Tableau and GitHub ofcourse.
-- 👯 I’m looking to collaborate with others working on Data Science.
-- 🥅 2022 Goals: Strengthen my Python and Machine Learning fundamentals. 
-- ⚡ Fun fact: I'm a wildlife enthusiast 🐾 
-- 👨‍💻 I'm open for internships for Data Scientist, Data Analyst and Data Engineering roles.
+- 🌱 I’m currently learning Machine Learning, Google Cloud, Tableau and Neural Networks.
+- 👯 I’m looking to collaborate with people working in Data Science and Data Analytics field.
+- 🥅 2022 Goals: Strengthen my Machine Learning and SQL fundamentals. 
+- ⚡ Fun fact: I'm a street food lover. If you are travelling to Delhi, you can ask me for recommendations! 🐾 
+- 👨‍💻 I'm open for internships and jobs for Data Scientist, Data Analyst and Data Engineering roles.
 
 > Content next in-line: Machine Learning, R Programming, SQL
 
@@ -15,8 +15,8 @@
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/riyagoyal15/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/riyagoyal15/#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/riyagoyal15/#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/riyagoyal15/#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://www.instagram.com/riya._.goyal/#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/riya._.goyal/#gh-dark-mode-only)
 
 ### Languages and Tools:
 
@@ -29,7 +29,7 @@
 <img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/Django/Django-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
 
 
 <br />
