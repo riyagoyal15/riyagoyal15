@@ -22,18 +22,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="MatLab" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Pandas" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
-<img align="left" alt="R" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
-<img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Apache Superset" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apache/apache-original.svg" style="padding-right:10px;" />
-
+<img align="left" alt="Python" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/python/python-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="Jupyter Notebook" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/jupyter/jupyter-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
+<img align="left" alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img align="left" alt="MatLab" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Pandas" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/pandas/pandas-original-wordmark.svg" style="padding-right:10px;" />
+<img align="left" alt="R" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/r/r-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Java" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
+<img align="left" alt="AWS" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Django" width="30px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
 
 <br />
 <br />
@@ -47,18 +45,3 @@
 
 [instagram]: https://www.instagram.com/riya._.goyal
 [linkedin]: https://www.linkedin.com/in/riyagoyal15
-
-
-**riyagoyal15/riyagoyal15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
