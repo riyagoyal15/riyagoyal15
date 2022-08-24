@@ -5,8 +5,10 @@
 - 🌱 I’m currently learning Machine Learning, Google Cloud, Tableau and Neural Networks.
 - 👯 I’m looking to collaborate with people working in Data Science and Data Analytics field.
 - 🥅 2022 Goals: Strengthen my Machine Learning and SQL fundamentals. 
-- ⚡ Fun fact: I'm a street food lover. If you are travelling to Delhi, you can ask me for recommendations! 🐾 
+- ⚡ Fun fact: I'm a street food lover. If you are travelling to Delhi, you can ask me for recommendations! 🥗 
 - 👨‍💻 I'm open for internships and jobs for Data Scientist, Data Analyst and Data Engineering roles.
+- 📫 How to reach me: riya.goyalwk@gmail.com
+- 😄 Pronouns: She/Her
 
 > Content next in-line: Machine Learning, R Programming, SQL
 
@@ -30,6 +32,7 @@
 <img align="left" alt="Java" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/java/java-original.svg" style="padding-right:10px;" />
 <img align="left" alt="AWS" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/amazonwebservices/amazonwebservices-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Django" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/django/django-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Apache Superset" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/apache/apache-original.svg" style="padding-right:10px;" />
 
 
 <br />
